@@ -1,6 +1,6 @@
  # 👋HELLO I'M JOHANN ASHTEEN R. OBIEN, STUDENT IN CCA.
 
-<img src="1000008565.jpg" alt="image" width="200" height="200">
+<img src="IMG_20250901_074132_508.jpg" alt="image" width="200" height="200">
 
 ## "WELCOME TO MY PORTFOLIO"
 - I'm currently studying and learning to improve my skills in programming.
