@@ -1,1 +1,23 @@
+ # 👋HELLO I'M JOHANN ASHTEEN R. OBIEN, STUDENT IN CCA.
 
+## "WELCOME TO MY PORTFOLIO"
+- I'm currently studying and learning to improve my skills in programming.
+
+### 😎"About me"
+- I'm 19 years old and currently a 2nd-year Computer Science student at CCA (City College of Angeles).
+- My Birthdate is October 10 , 2005
+- I live in Brgy. Paralaya, Porac, Pampanga.
+- My hobbies are listening to music, gym cook, play online games, and dancing.
+- My favorite dish is calderetang aso.
+
+### 🏫"Educational Background"
+- AMA Computer College (SHS) TVL- ICT S.Y 2021-2023
+- Rafael Lszatin Memorial High School (JHS) S.Y 2017-2021
+- Gueco Balibago Elementary School S.Y 2011-2016
+
+### ☎️"Contact me"
+- Email: jobien24-0130@cca.edu.ph)
+- Social: FB: Johann Obien
+- Contact #:09943712456
+
+### "Thanks for visiting my profile"
