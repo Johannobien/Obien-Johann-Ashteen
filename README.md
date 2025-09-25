@@ -22,8 +22,8 @@
 - Social: FB: Johann Obien
 - Contact #:09943712456
 - ### My Project Links:
-- https://docs.google.com/document/d/1UzJ6Q_VExp4yL5Fym-hRrcGXS5KBu6-3BJDTDaSqknc/edit?usp=sharing
-- https://docs.google.com/document/d/1oSJCCXoDwVpH78Gf67b_9XI4iesc54Azv6yxs7GtSJA/edit?usp=sharing
+*  Midterm Paired Task 1: [My Project](https://docs.google.com/document/d/1UzJ6Q_VExp4yL5Fym-hRrcGXS5KBu6-3BJDTDaSqknc/edit?usp=sharing)
+*  Midterm Lab Task 1: [My Project](https://docs.google.com/document/d/1oSJCCXoDwVpH78Gf67b_9XI4iesc54Azv6yxs7GtSJA/edit?usp=sharing)
 - https://docs.google.com/document/d/1suNSQKUkRtDd1yN3ML7fvMIk7df3tLCiWT23R2bjW20/edit?usp=sharing
 - 
 -https://docs.google.com/document/d/1haeFoaAIXcgcRhUotxyEGLX3TYhm33HB3hbJ4HcOv2w/edit?usp=sharing
