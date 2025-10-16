@@ -27,6 +27,7 @@
 * Midterm Lab Task 2: [My Project](https://docs.google.com/document/d/1suNSQKUkRtDd1yN3ML7fvMIk7df3tLCiWT23R2bjW20/edit?usp=sharing)
 * Midterm Lab Task 3: [My Project](https://docs.google.com/document/d/1BGeVSMUz5JWHRVMoSnXWTzXm-OCHM2rWV9kxHt_2hI4/edit?usp=sharing)
 * Midterm Lab Task 4: [My Project](https://docs.google.com/document/d/1haeFoaAIXcgcRhUotxyEGLX3TYhm33HB3hbJ4HcOv2w/edit?usp=sharing)
+* Midterm Lab Task 5:[My Project](https://docs.google.com/document/d/1i1oXurrGvpIRdgubeJD2eHzgUXokuerKNTnVIWuAhuM/edit?usp=sharing)
 * Midterm Lab Task 6: [My Project](https://docs.google.com/document/d/1C7TOFBZTK7ED0okmr1rCFXkmboSa9HCSUwYqIAbIkZA/edit?usp=sharing)
 
 ### "Thanks for visiting my profile"
