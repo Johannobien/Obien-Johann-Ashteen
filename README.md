@@ -1,4 +1,4 @@
- # 👋HELLO I'M JOHANN ASHTEEN R. OBIEN, STUDENT IN CCA.
+# 👋HELLO I'M JOHANN ASHTEEN R. OBIEN, STUDENT IN CCA.
 
 <img src="IMG_20250901_074132_508.jpg" alt="image" width="200" height="200">
 
