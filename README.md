@@ -30,5 +30,11 @@
 * Midterm Lab Task 5:[My Project](https://docs.google.com/document/d/1i1oXurrGvpIRdgubeJD2eHzgUXokuerKNTnVIWuAhuM/edit?usp=sharing)
 * Midterm Lab Task 6: [My Project](https://docs.google.com/document/d/1C7TOFBZTK7ED0okmr1rCFXkmboSa9HCSUwYqIAbIkZA/edit?usp=sharing)
 * Finals Lab Task 1. Encapsulation:[My Project](https://docs.google.com/document/d/1XWg25ZfYgg1hjbpzAtHaFv_4C2659SAx2KQLtoWdIBE/edit?usp=drivesdk)
+* Finals Task 2. Inheritance:[My Project](https://docs.google.com/document/d/1wOR3kD7HAk8a_edxepL7J0MFaQwOUgWUJbq_i35QSFI/edit?usp=drivesdk)
+* Finals Task 3. Polymorphism:[My Project](https://docs.google.com/document/d/19ewSbNIILZ14hx-NUOtHY3ylhrjUxlFKKncxy9Svuo8/edit?usp=drivesdk)
+* PRACTICE DEMO task using Python GUI:[My Project](https://drive.google.com/file/d/1CcGszTJfFHK66wdBW6zTVMD5s5PYZ1ZB/view?usp=drivesdk)
+* Finals task 4. Designing Tkinter GUI using OOP:[My Project](https://docs.google.com/document/d/1r4Q8RYs0Tmg9XwjDjGqdhXj5BDBpNVI6zTQ-qMjPE8g/edit?usp=drivesdk)
+* Finals Task 5. Grading Program using Tkinter:[MyProject](https://www.dola.com/thread/ac7dcb5fda604)
+* Finals Lab Task 6. Mysql and Pythod CRUD using CLI:[My Project](https://docs.google.com/document/1QJ22uGOHUb3TgEySJjLsvwSIjBBZtJvek7dQlEkV8K4/edit?usp=drivesdk)
 
 ### "Thanks for visiting my profile"
