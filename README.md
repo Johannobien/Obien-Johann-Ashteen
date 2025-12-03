@@ -29,5 +29,6 @@
 * Midterm Lab Task 4: [My Project](https://docs.google.com/document/d/1haeFoaAIXcgcRhUotxyEGLX3TYhm33HB3hbJ4HcOv2w/edit?usp=sharing)
 * Midterm Lab Task 5:[My Project](https://docs.google.com/document/d/1i1oXurrGvpIRdgubeJD2eHzgUXokuerKNTnVIWuAhuM/edit?usp=sharing)
 * Midterm Lab Task 6: [My Project](https://docs.google.com/document/d/1C7TOFBZTK7ED0okmr1rCFXkmboSa9HCSUwYqIAbIkZA/edit?usp=sharing)
+* Finals Lab Task 1. Encapsulation:[My Project](https://docs.google.com/document/d/1XWg25ZfYgg1hjbpzAtHaFv_4C2659SAx2KQLtoWdIBE/edit?usp=drivesdk)
 
 ### "Thanks for visiting my profile"
