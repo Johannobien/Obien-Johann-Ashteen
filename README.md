@@ -36,6 +36,6 @@
 * Finals task 4:[My Project](https://docs.google.com/document/d/1r4Q8RYs0Tmg9XwjDjGqdhXj5BDBpNVI6zTQ-qMjPE8g/edit?usp=drivesdk)
 * Finals Task 5:[My Project](https://1drv.ms/w/c/D9C53216A44A12C3/EdguroYj3JNAure6xjP2-wkBQUhKVCEwDwws0hkUVPiFiw)
 * Finals Lab Task 6:[My Project](https://docs.google.com/document/1QJ22uGOHUb3TgEySJjLsvwSIjBBZtJvek7dQlEkV8K4/edit?usp=drivesdk)
-* Finals Task 7:[My Project]  (https://docs.google.com/document/d/1yTLUQ0hxWS4RPJiSPVFXD3nu96G6MNa9nY52Nxr2d3c/edit?usp=drivesdk)
+* Finals Task 7:[My Project](https://docs.google.com/docume/d/1yTLUQ0hxWS4RPJiSPVFXD3nu96G6MNa9nY52Nxr2d3c/edit?usp=drivesdk)
 
 ### "Thanks for visiting my profile"
